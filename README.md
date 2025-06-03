@@ -61,6 +61,7 @@ To train the SVM model with the provided data, follow these steps:
    ```
    python main.py
    ```
+   
    After sucessfully running the main script, it will initially ask you to provide the path of the voice to analyze, provide it with the path and the
 3. Run the web app by:
    ```

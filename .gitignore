@@ -1,0 +1,41 @@
+# Dataset directories
+real_audio/
+deepfake_audio/
+
+# Generated model files
+*.pkl
+
+# Upload directories
+uploads/
+toanalyze/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Generated images
+*.png
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log 
